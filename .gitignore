@@ -1,0 +1,10 @@
+node_modules
+public
+dist
+*.log
+*.log-*
+*.log_*
+*.log.*
+.idea
+.vscode
+.DS_Store
